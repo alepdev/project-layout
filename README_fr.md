@@ -7,7 +7,6 @@ Traductions:
 * [简体中文](README_zh.md)
 * [正體中文](README_zh-TW.md)
 * [简体中文](README_zh-CN.md) - ???
-* [Français](README_fr.md)
 * [日本語](README_ja.md)
 * [Portuguese](README_ptBR.md)
 * [Español](README_es.md)
